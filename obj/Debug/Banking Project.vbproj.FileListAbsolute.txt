@@ -1,0 +1,12 @@
+C:\Vb Banking Project\Banking Project\Banking Project\bin\Debug\Banking Project.exe.config
+C:\Vb Banking Project\Banking Project\Banking Project\bin\Debug\Banking Project.exe
+C:\Vb Banking Project\Banking Project\Banking Project\bin\Debug\Banking Project.pdb
+C:\Vb Banking Project\Banking Project\Banking Project\bin\Debug\Banking Project.xml
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking Project.vbprojAssemblyReference.cache
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking_Project.Resources.resources
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking_Project.WelcomeForm.resources
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking Project.vbproj.GenerateResource.cache
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking Project.vbproj.CoreCompileInputs.cache
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking Project.exe
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking Project.xml
+C:\Vb Banking Project\Banking Project\Banking Project\obj\Debug\Banking Project.pdb
